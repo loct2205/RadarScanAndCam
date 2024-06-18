@@ -20,7 +20,7 @@ Các tính năng chính của dự án bao gồm:
 
 ### Hình ảnh  và video demo:
 
-![image](https://github.com/loct2205/RadarScanAndCam/assets/75266172/df40d47b-bfe5-4892-9db2-bbb318583bcc)
+![image](https://github.com/loct2205/RadarScanAndCam/assets/75266172/229fb532-73c6-4b50-ae5b-05ecb30c12bb)
 
 Link video: [Video demo](https://drive.google.com/file/d/1oqdByZ9TCyQgGIg9pIIQ2jjrJ_XlKjTF/view?usp=drive_link)
 
@@ -36,7 +36,7 @@ Link video: [Video demo](https://drive.google.com/file/d/1oqdByZ9TCyQgGIg9pIIQ2j
 
 ## D. Sơ đồ sơ đồ mạch (Tham khảo)
 
-![Sơ đồ mạch](https://github.com/loct2205/RadarScanAndCam/assets/75266172/63868902-982e-42e6-9a9b-7964d42ea1ce)
+![Sơ đồ mạch](https://github.com/loct2205/RadarScanAndCam/assets/75266172/f608e31b-5aa4-4b00-a624-e16ea2814bfd)
 
 ## E. Thiết kế phần mềm
 
